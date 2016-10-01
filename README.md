@@ -2,6 +2,8 @@
 
 Typescript utils I created for myself and published to npm publically so I can use them wherever.
 
+For now I just have basic methods to make simple http requests (incl. json) so I don't have to keep writing the res.on("data"), etc. code.
+
 # Usage
 
 ```ts
