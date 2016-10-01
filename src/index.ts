@@ -1,3 +1,3 @@
-import { Greeter } from "./greeter";
+import { Utils } from "./Utils";
 
-export { Greeter };
+export { Utils };
