@@ -1,12 +1,12 @@
 {
-  "name": "robspassky-ts-utils",
-  "version": "0.1.0",
-  "description": "robspassky-ts-utils",
+  "name": "miera",
+  "version": "1.0.0",
+  "description": "A library of convenient functions in typescript",
   "license": "MIT",
-  "repository": "https://github.com/robspassky/robspassky-ts-utils",
+  "repository": "https://github.com/robspassky/miera",
   "author": "Rob Cabacungan",
   "keywords": [
-    ""
+    "typescript utils"
   ],
   "files": [
     "lib"

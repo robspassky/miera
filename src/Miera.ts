@@ -1,6 +1,6 @@
 import * as http from "http";
 
-export class Utils {
+export class Miera {
 
   public static wget(url: string, cb: (err: string, body: string) => void) {
     http.get(url, (rsp) => {
@@ -21,7 +21,7 @@ export class Utils {
   }
 
   public static jget(url: string, cb: (err: string, obj: any) => void) {
-    Utils.wget(url, (err, body) => {
+    Miera.wget(url, (err, body) => {
       if (err) {
         cb(err, undefined);
         return;

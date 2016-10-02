@@ -1,3 +1,3 @@
-import { Utils } from "./Utils";
+import { Miera } from "./Miera";
 
-export { Utils };
+export { Miera };
