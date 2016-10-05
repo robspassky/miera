@@ -1,12 +1,12 @@
 {
   "name": "miera",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A library of convenient functions in typescript",
   "license": "MIT",
   "repository": "https://github.com/robspassky/miera",
   "author": "Rob Cabacungan",
   "keywords": [
-    "typescript utils"
+    "typescript utils utilities wget json web"
   ],
   "files": [
     "lib"
